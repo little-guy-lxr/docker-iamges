@@ -1,1 +1,1 @@
-from $image
+FROM gcr.io/distroless/static:latest
